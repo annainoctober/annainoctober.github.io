@@ -1,2 +1,2 @@
-# jiangyuanqi.github.io
+# annainoctober.github.io
 Personal website and CV assets
